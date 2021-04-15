@@ -1,16 +1,11 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: lizhicheng@aipai.com
- * Date: 2019/2/18
- * Time: 14:44
+ * User: 405848298@qq.com
+ * Date: 2021/04/15
  */
 
-namespace App\Library\Classes;
-
-
-use App\User;
-use Illuminate\Support\Facades\DB;
+namespace infoLightYang\RabbitMq;
 
 class rabbitQueue
 {
