@@ -1,0 +1,25 @@
+{
+    "name": "infoLightYang/RabbitMq",
+    "type": "library",
+    "description": "RabbitMq class by PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "infoLightYang",
+            "email": "405848298@qq.com",
+        }
+    ],
+    "homepage": "https://github.com/infoLightYang/RabbitMq",
+    "keywords": [
+      "RabbitMq",
+      "queue",
+    ],
+    "require": {
+        "php": ">=7.0.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "infoLightYang\\RabbitMq\\": "src/"
+        }
+    }
+}
