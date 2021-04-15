@@ -6,16 +6,16 @@
     "authors": [
         {
             "name": "infoLightYang",
-            "email": "405848298@qq.com",
+            "email": "405848298@qq.com"
         }
     ],
     "homepage": "https://github.com/infoLightYang/RabbitMq",
     "keywords": [
       "RabbitMq",
-      "queue",
+      "queue"
     ],
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
