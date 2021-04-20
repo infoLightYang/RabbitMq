@@ -1,2 +1,2 @@
 # RabbitMq
-原生RabbitMq封装类
+PHP原生RabbitMq封装类
